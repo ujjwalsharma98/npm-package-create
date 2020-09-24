@@ -1,0 +1,19 @@
+{
+  "name": "npm-test-publish-first",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujjwalsharma98/npm-publish.git"
+  },
+  "author": "ujjwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujjwalsharma98/npm-publish/issues"
+  },
+  "homepage": "https://github.com/ujjwalsharma98/npm-publish#readme"
+}
